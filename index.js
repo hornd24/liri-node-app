@@ -1,3 +1,10 @@
+// in case of issue  npm install --save node-spotify-api  https://www.npmjs.com/package/node-spotify-api
+//npm  install --save twitter   https://www.npmjs.com/package/twitter
+//npm install --save request  https://www.npmjs.com/package/request
+// npm install --save fs
+
+
+
 var twitterkeys = require("./keys.js");
 var Twitter = require('twitter');
 var Spotify = require('node-spotify-api');
